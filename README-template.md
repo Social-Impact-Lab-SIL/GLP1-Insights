@@ -1,8 +1,8 @@
-# [Project Title]
+# GLP-1s and Medicaid: Insights From Policy and Prescription Data
 
-**Status:** [Active / Under Review / Published / Archived]  
-**Maintainer:** [Name, SIL role]  
-**Last Updated:** [Month Year]
+**Status:** Accepted
+**Maintainer:** Rachel Fung
+**Last Updated:** September 2026
 
 ## Overview
 
@@ -17,16 +17,16 @@
 
 ## Requirements
 
-[List the software and packages needed to run this project, e.g., Stata 17, R 4.x, Python 3.x]
+Stata 16
 
 ## How to Run
 
-[Step-by-step instructions for running the analysis from scratch.]
+Change current directory in main.do and run code.
 
 ## Data Sources
 
-[List the data sources used, where they come from, and any access restrictions.]
+Data are all publicly available. State Drug Utilization Data from CMS: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data. NDC Codes from the CDC: https://www.accessdata.fda.gov/scripts/cder/ndc/.
 
 ## Contact
 
-[Name] — [email] — Social Impact Lab, University of Missouri
+Rachel Fung — rachelfung@missouri.edu — Social Impact Lab, University of Missouri
