@@ -1,18 +1,18 @@
 # GLP-1s and Medicaid: Insights From Policy and Prescription Data
 
-**Status:** Accepted
-**Maintainer:** Rachel Fung
-**Last Updated:** September 2026
+**Status:** Accepted  
+**Maintainer:** Rachel Fung  
+**Last Updated:** September 2026  
 
 ## Overview
 
-[1–2 sentences describing what this project is and what research question it addresses.]
+State Medicaid programs vary in whether they cover glucagon-like peptide-1 receptor agonists (GLP-1s) for obesity treatment. This paper examines how utilization differs across coverage environments.
 
 ## Repository Structure
-├── data/           # Raw and processed data (not committed — see .gitignore)
-├── code/           # Analysis scripts
-├── output/         # Tables, figures, and results
-├── docs/           # Notes, meeting summaries, documentation
+├── data/           # Raw and processed data (not committed — see .gitignore)  
+├── code/           # Analysis scripts  
+├── output/         # Tables, figures, and results  
+├── docs/           # Notes, meeting summaries, documentation  
 └── README.md
 
 ## Requirements
